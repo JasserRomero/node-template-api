@@ -7,7 +7,7 @@ To get started with the project, follow these steps:
 1. Clone the project repository:
 
 ```bash
-  gti clone https://github.com/wpadillav/ParkManager.git
+  git clone https://github.com/JasserRomero/node-template-api.git
 ```
 
 2. Install dependencies
